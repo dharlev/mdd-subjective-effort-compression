@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the accompanying article."
+title: "Code for: Not just harder: subjective effort compression in major depressive disorder"
+type: software
+authors:
+  - family-names: Harlev
+    given-names: Daniel
+  - family-names: Wolpe
+    given-names: Noham
+version: 1.0.0
+date-released: 2026-10-11
+repository-code: "https://github.com/dharlev/mdd-subjective-effort-compression"
+license: MIT
+
